@@ -7,3 +7,8 @@ resolucion de la tarea CoronaVirus
 > Herramientas
 
 - Para el desarrollo de código se uso  <a href="https://www.jetbrains.com/es-es/datagrip/" target="_blank">**DataGrip**</a> 
+
+
+**Universidad Franz Tamayo**
+
+[![INSERT YOUR GRAPHIC HERE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCtOwCLj8eUQTM0wEOHHTyiD0ssee0Q1QN5Q&usqp=CAU)]()
